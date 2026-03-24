@@ -1,0 +1,10 @@
+✅ Test 1
+Navigate to google.com and search for Playwright
+✅ Test 2
+Open amazon.in and search for iPhone
+✅ Test 3
+Go to github.com and search for playwright repository
+✅ Test 4
+Open flipkart and search for laptops under 50000
+✅ Test 5 (Edge)
+Just open youtube
