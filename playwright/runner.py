@@ -4,7 +4,7 @@ import os
 import uuid
 import sys
 
-def execute_code(code: str, timeout=30):
+def execute_code(code: str, timeout=60):
     file_path = None
 
     try:
