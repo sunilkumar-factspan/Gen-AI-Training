@@ -1,3 +1,15 @@
+# Environments
 .env
 venv/
+
+# Python compiled files (The noise in your status)
+__pycache__/
+*.pyc
+
+# Automation Artifacts
 user_data/
+output.png
+temp_*.py
+
+# System files
+.DS_Store
